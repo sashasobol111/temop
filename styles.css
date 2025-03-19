@@ -3,9 +3,12 @@ body{
     
 }
 
+.CONT{
+
+}
 .wrapper {
     
-    height: 6vh;
+    height: 7vh;
     font-size: 16px;
     color: #333333;
     background-color: #3498db;
